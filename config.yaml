@@ -1,11 +1,11 @@
 baseURL: "http://example.org/"
 languageCode: en-us
-title: My New Hugo Site
+title: BB & CY's DOMUM
 theme: "stack"
 paginate: 5
 
 # Change it to your Disqus shortname before using
-disqusShortname: hugo-theme-stack
+disqusShortname: bblvcy
 
 # GA Tracking ID
 googleAnalytics:
@@ -38,7 +38,7 @@ params:
         subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
         avatar:
             local: true
-            src: img/avatar.png
+            src: img/hugo_avator.jpg
 
     article:
         math: false
@@ -75,7 +75,7 @@ params:
     opengraph:
         twitter:
             # Your Twitter username
-            site:
+            site: BookerYu12
 
             # Available values: summary, summary_large_image
             card: summary_large_image

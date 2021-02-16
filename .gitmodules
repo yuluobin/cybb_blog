@@ -4,3 +4,7 @@
 [submodule "themes/stack"]
 	path = themes/stack
 	url = https://github.com/CaiJimmy/hugo-theme-stack.git
+[submodule "public"]
+	path = public
+	url = git@github.com:yuluobin/yuluobin.github.io.git
+	branch = master
